@@ -4,6 +4,7 @@
 [![Function Extension CI workflow](https://github.com/OfficeDev/TeamsFx/actions/workflows/FunctionExtensionCI.yml/badge.svg)](https://github.com/OfficeDev/TeamsFx/actions/workflows/FunctionExtensionCI.yml)
 [![CodeQL](https://github.com/OfficeDev/TeamsFx/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/OfficeDev/TeamsFx/actions/workflows/codeql-analysis.yml)
 [![codecov](https://codecov.io/gh/OfficeDev/teams-toolkit/branch/dev/graph/badge.svg?token=QQX8WVOEC3)](https://codecov.io/gh/OfficeDev/teams-toolkit)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fteams-toolkit.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fteams-toolkit?ref=badge_shield)
 
 Teams Toolkit for Visual Studio, Visual Studio Code, and Command Line Interface (CLI) are tools for building Teams apps, fast. Whether you are new to Teams platform or a seasoned developer, Teams Toolkit is the best way to create, build, debug, test, and deploy apps.
 
@@ -89,3 +90,7 @@ Any use of third-party trademarks or logos are subject to those third-party's po
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fteams-toolkit.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fteams-toolkit?ref=badge_large)
